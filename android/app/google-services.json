@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "40282379478",
+    "firebase_url": "https://mobile-firebase-629c5-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "mobile-firebase-629c5",
+    "storage_bucket": "mobile-firebase-629c5.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:40282379478:android:a98d3093f69e8a6c57e577",
+        "android_client_info": {
+          "package_name": "com.example.assignment"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDictf7j05XkP_pyRhpcNOFWbdp7btAvLs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:40282379478:android:5f871b73e0042e1457e577",
+        "android_client_info": {
+          "package_name": "com.example.prototype"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDictf7j05XkP_pyRhpcNOFWbdp7btAvLs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
